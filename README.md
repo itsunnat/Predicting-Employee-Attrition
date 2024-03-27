@@ -27,5 +27,3 @@ To embark on this project, follow these steps:
 ## Contributing
 Contributions to this project are highly encouraged! Whether it involves bug fixes, feature enhancements, or fresh ideas, don't hesitate to open an issue or submit a pull request. Please adhere to the project's code of conduct and guidelines when contributing.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
